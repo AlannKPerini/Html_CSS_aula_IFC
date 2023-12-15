@@ -161,11 +161,11 @@ tr,td{
 	font-size: 14px;
 	}
 tr:nth-child(even) {
-	background-color: #9da48b;
+	background-color: #c0c5b0;
 } 	
 
 tr:nth-child(odd) {
-	background-color: #83d39c;
+	background-color: #8ee0a8;
 	} 
 
 /*************************
